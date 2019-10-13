@@ -5,6 +5,3 @@ class Cat
     puts "meow!"
   end
 end
-
-puss = Cat.new
-puss.name = "Puss"
